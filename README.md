@@ -138,11 +138,6 @@ Puedes personalizar fácilmente los colores y estilos editando el archivo `estil
 
 Este proyecto está bajo la Licencia MIT - siéntete libre de usarlo, modificarlo y compartirlo.
 
-## 👨‍💻 Autor
-
-Desarrollado con ❤️ por **m0nge**
-- GitHub: [@m0nge](https://github.com/m0nge)
-
 ## 🎮 Demo en Vivo
 
 [Ver Demo](https://m0nge.github.io/XO) ← ¡Pruébalo ahora!
